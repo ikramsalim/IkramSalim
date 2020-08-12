@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 Intro: My name is Ikram Salim, a rising junior going to the University of Saskatchewan at Saskatoon. 
+
 <!--
 **ikramsalim/ikramsalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there 👋
